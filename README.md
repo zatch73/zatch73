@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zatch73)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zatch73&hide=contribs,prs&count_private=true&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zatch73&theme=codeSTACKr&count_private=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact&langs_count=7">
+</div>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+</div>
