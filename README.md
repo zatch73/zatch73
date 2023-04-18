@@ -5,12 +5,6 @@
   <p> en: I am Matheus, an 18-year-old young man, known as zatch73. I graduated as a Systems Development Technician and I am currently graduating in Systems Analysis and     Development at the Faculty of Technology (Fatec). </p>
 </div>
 
-<div div align="center">
-  <h2> status </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=zatch73&theme=dracula&count_private=true&show_icons=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact&langs_count=7&theme=dracula" height="180">
-</div>
-
 <div align="center">
 <h2>skills </h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"/>
@@ -20,3 +14,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80"/>
 </div>
+
+<div div align="center">
+  <h2> status </h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=zatch73&theme=dracula&count_private=true&show_icons=true"> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact&langs_count=7&theme=dracula" width>
+</div>
+
+
