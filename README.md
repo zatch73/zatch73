@@ -17,8 +17,8 @@
 
 <div style="display:inline-block;">
   <h2> status </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=zatch73&theme=dracula&count_private=true&show_icons=true" height="200px" width="450px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact&langs_count=7&theme=dracula" height="200px" width="350px">
+  <img src="https://github-readme-stats.vercel.app/api?username=zatch73&theme=dracula&count_private=true&show_icons=true" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact&langs_count=7&theme=dracula" height="200px">
 </div>
 
 
