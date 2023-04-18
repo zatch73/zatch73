@@ -15,10 +15,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80"/>
 </div>
 
-<div style="display:inline-block;">
-  <h2> status </h2>
+<div>
+  <h2 align="center"> status </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=zatch73&theme=dracula&count_private=true&show_icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact&langs_count=7&theme=dracula">
+</div>
+
+<div align="center">
+<hr>
+<a href="https://www.linkedin.com/in/matheusmarchioli/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://www.reddit.com/user/zatch73" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> </a>
+<a href="mailto:zatch73@duck.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href="https://www.quora.com/profile/Zatch73" target="_blank"> <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"> </a>
+<hr>
 </div>
 
 
