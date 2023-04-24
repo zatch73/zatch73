@@ -1,6 +1,6 @@
 <div align="center">
   <h1>i'm Matheus and a student of back-end Java and C#</h1>
-  <h3> abouve me</h3>
+  <h3> about me</h3>
   <p> pt-br: eu sou o matheus, um jovem de 18 anos, conhecido como zatch73. me formei como técnico em desenvolvimento de sistemas e atualmente estou me graduando em análise e desenvolvimento de sistemas na faculdade fatec. </p>
   <p> en: i am matheus, an 18-year-old young man, known as zatch73. i graduated as a systems development technician and i am currently graduating in systems analysis and development at the faculty of technology (fatec). </p>
 </div>
