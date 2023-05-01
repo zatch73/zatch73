@@ -18,7 +18,7 @@
 <div>
   <h2 align="center"> status </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=zatch73&theme=dracula&count_private=true&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact&langs_count=7&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact&langs_count=6&theme=dracula">
 </div>
 
 <div align="center">
