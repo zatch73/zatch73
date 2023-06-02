@@ -16,11 +16,6 @@
 </div>
 
 <div align="center">
-  <h2> status </h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zatch73&layout=compact&langs_count=6&theme=dracula">
-</div>
-
-<div align="center">
 <hr>
 <a href="https://www.linkedin.com/in/matheusmarchioli/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://www.reddit.com/user/zatch73" target="_blank"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> </a>
