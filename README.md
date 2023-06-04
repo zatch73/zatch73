@@ -9,7 +9,7 @@
   <h2> about me</h2>
   <p>i am matheus, an 18-year-old young man, known as zatch73. i graduated as a systems development technician and i am    currently graduating in systems analysis and development at the faculty of technology (fatec). </p>
   <a href="https://giphy.com/gifs/fulifuli-pixel-art-dinosaur-3o85xyGspig9UUbHc4"> <img src="https://media.giphy.com/media/3o85xyGspig9UUbHc4/giphy.gif" width="300" height="300"></a>
-  <a href="https://giphy.com/gifs/fulifuli-pixel-art-dinosaur-3o85xyGspig9UUbHc4"> <img src="https://media.giphy.com/media/pTEwHiQ057XVK/giphy.gif" width="300" height="300" style="margin-right: 10px;"></a>
+  <a href="https://giphy.com/gifs/dusancezek-dusan-cezek-art-pixel-pTEwHiQ057XVK"> <img src="https://media.giphy.com/media/pTEwHiQ057XVK/giphy.gif" width="300" height="300" style="margin-right: 10px;"></a>
   <h2> my skills</h2>
   <img src="https://skillicons.dev/icons?i=java,cs,php,mysql,bash,linux,git,vscode,eclipse,bootstrap,vue,html,css,js">
   <h2>social networks</h2>
